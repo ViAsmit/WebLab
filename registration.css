@@ -1,0 +1,32 @@
+div{
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 20px 0px;
+}
+legend{
+  padding-bottom: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
+td{
+  padding: 2px 10px;
+}
+h1{
+  font-size: 72px;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.btn{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: 20px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
